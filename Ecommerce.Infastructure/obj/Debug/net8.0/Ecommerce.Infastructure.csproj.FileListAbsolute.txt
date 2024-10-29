@@ -1,0 +1,39 @@
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.deps.json
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.runtimeconfig.json
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.pdb
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.pdb
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.AssemblyReference.cache
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfoInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfo.cs
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CoreCompileInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CopyComplete
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\refint\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.pdb
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.genruntimeconfig.cache
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\ref\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.sourcelink.json
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.dll
+D:\full stack\asp_net\API\EcommerceAPI\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.pdb
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.deps.json
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.runtimeconfig.json
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.dll
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.pdb
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.dll
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.dll
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.pdb
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.pdb
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.AssemblyReference.cache
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfoInputs.cache
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfo.cs
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CopyComplete
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.dll
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\refint\Ecommerce.Infastructure.dll
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.pdb
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.genruntimeconfig.cache
+C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\ref\Ecommerce.Infastructure.dll
