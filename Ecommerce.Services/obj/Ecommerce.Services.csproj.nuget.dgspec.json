@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\Ecommerce.Services.csproj": {}
+    "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\Ecommerce.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+    "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectUniqueName": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "projectName": "Ecommerce.Core",
-        "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\actc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\obj\\",
+        "outputPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\Ecommerce.Services.csproj": {
+    "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\Ecommerce.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\Ecommerce.Services.csproj",
+        "projectUniqueName": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\Ecommerce.Services.csproj",
         "projectName": "Ecommerce.Services",
-        "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\Ecommerce.Services.csproj",
+        "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\Ecommerce.Services.csproj",
         "packagesPath": "C:\\Users\\actc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\obj\\",
+        "outputPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj"
+              "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+                "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj"
               }
             }
           }

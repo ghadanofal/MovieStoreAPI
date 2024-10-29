@@ -35,7 +35,7 @@ namespace Ecommerce.API.Controllers
         }
 
         [HttpGet]
-        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
         public async Task<ActionResult<ApiResponse>> GetAllMovie([FromQuery] string? genre_name = null, int pageSize = 2, int pageNumber = 1)
         {
             Expression<Func<Movie, bool>> filter = null;
@@ -44,7 +44,7 @@ namespace Ecommerce.API.Controllers
                 filter = x => x.Genres.Name.Contains(genre_name);
             }
             var models = await unitOfWork.movieRepository.GetAll(filter: filter, page_Size: pageSize, page_Number: pageNumber,
-                includeProperity: "genres");
+                includeProperity: "Genres");
             var check = models.Any();
             if (check)
             {

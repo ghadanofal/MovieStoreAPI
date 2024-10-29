@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sU4guz9KhNz2h+xpLNtkj8ztf5B9eujtR8wTMskkK66312YtiMfsBavfTcK9o2VRIveRs26EhOWEoZLZCdczBQ==",
+  "dgSpecHash": "NC8H/k9httOERRQDAHk5fXzzghW+pJoH09Ip7kjOlPhZaFRuWUtu0RaeWH8UGWiricfZGcPETSwNvzQMzZ8ojQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj",
+  "projectFilePath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\actc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\actc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

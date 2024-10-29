@@ -951,11 +951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj",
+      "projectUniqueName": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj",
       "projectName": "Ecommerce.Core",
-      "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj",
+      "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj",
       "packagesPath": "C:\\Users\\actc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\obj\\",
+      "outputPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

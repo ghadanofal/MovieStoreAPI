@@ -37,3 +37,23 @@ C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.pdb
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.genruntimeconfig.cache
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Infastructure\obj\Debug\net8.0\ref\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.deps.json
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.runtimeconfig.json
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Infastructure.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Core.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\bin\Debug\net8.0\Ecommerce.Services.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.AssemblyReference.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfoInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.AssemblyInfo.cs
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CoreCompileInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.sourcelink.json
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.csproj.CopyComplete
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\refint\Ecommerce.Infastructure.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\Ecommerce.Infastructure.genruntimeconfig.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Infastructure\obj\Debug\net8.0\ref\Ecommerce.Infastructure.dll

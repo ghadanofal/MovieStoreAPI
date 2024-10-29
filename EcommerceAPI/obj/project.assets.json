@@ -4673,11 +4673,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\EcommerceAPI\\Ecommerce.API.csproj",
+      "projectUniqueName": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\EcommerceAPI\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\EcommerceAPI\\Ecommerce.API.csproj",
+      "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\EcommerceAPI\\Ecommerce.API.csproj",
       "packagesPath": "C:\\Users\\actc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\EcommerceAPI\\obj\\",
+      "outputPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\EcommerceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4698,8 +4698,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj": {
-              "projectPath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj"
+            "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj": {
+              "projectPath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Infastructure\\Ecommerce.Infastructure.csproj"
             }
           }
         }

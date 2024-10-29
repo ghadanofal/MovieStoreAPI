@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UdshwvlBYHJm6GNCc61yPYkOFIZ4aPej0jfqirSfZVRBrFsDVKBsVsdED97+5gmpvE2KoQK0OeKeYu4ugCwkA==",
+  "dgSpecHash": "4zLQD2pfk3LR/HmmPjq575EdmTLEvFD6e3yHrOVCblab+aA8vociLycJGLEw3niI3IdCVCok/b4CNnrq+9w4AA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Core\\Ecommerce.Core.csproj",
+  "projectFilePath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Core\\Ecommerce.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\actc\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\actc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.7\\microsoft.aspnetcore.cryptography.internal.8.0.7.nupkg.sha512",

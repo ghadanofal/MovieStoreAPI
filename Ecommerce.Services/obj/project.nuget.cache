@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJ8sX2iI+xbxE3ZIrbsb4fRZQf07wvMT8AJYswTL2LjAtG9rCDo+qwPAzzjFJASRzI4/UJfQEAdFLODZy2JSQw==",
+  "dgSpecHash": "MN+8ysIW12AAXbS+lPyuY8zuafbm80E5jCV/uxrC4Sx65xqrayLSCRZmvZwn5fA6TwEWjYif7qoXO70hDxGNbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\actc\\Downloads\\EcommerceAPI-main\\Ecommerce.Services\\Ecommerce.Services.csproj",
+  "projectFilePath": "D:\\full stack\\asp_net\\API\\EcommerceAPI-Moviestore\\Ecommerce.Services\\Ecommerce.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\actc\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\actc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",

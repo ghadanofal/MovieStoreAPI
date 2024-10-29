@@ -32,16 +32,11 @@ namespace Ecommerce.API.Controllers
 
         // GET: api/genre
         [HttpGet]
-        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
-        public async Task<ActionResult<ApiResponse>> GetAllGenre([FromQuery] string? genre_name = null, int pageSize = 2, int pageNumber = 1)
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
+        public async Task<ActionResult<ApiResponse>> GetAllGenre(int pageSize = 2, int pageNumber = 1)
         {
-            Expression<Func<Genre, bool>> filter = null; // Change Movie to Genre
-            if (!string.IsNullOrEmpty(genre_name))
-            {
-                filter = x => x.Name.Contains(genre_name); // Filter by Genre name
-            }
 
-            var models = await unitOfWork.genreRepository.GetAll(filter: filter, page_Size: pageSize, page_Number: pageNumber); // Call genre repository
+            var models = await unitOfWork.genreRepository.GetAll(page_Size: pageSize, page_Number: pageNumber);
 
             var check = models.Any();
             if (check)
@@ -54,12 +49,39 @@ namespace Ecommerce.API.Controllers
             }
             else
             {
-                response.Message = "No genre found"; // Update message
+                response.Message = "No genre found";
                 response.StatusCode = 200;
                 response.IsSuccess = false;
                 return response;
             }
         }
+        //public async Task<ActionResult<ApiResponse>> GetAllGenre([FromQuery] string? genre_name = null, int pageSize = 2, int pageNumber = 1)
+        //{
+        //    Expression<Func<Genre, bool>> filter = null; // Change Movie to Genre
+        //    if (!string.IsNullOrEmpty(genre_name))
+        //    {
+        //        filter = x => x.Name.Contains(genre_name); // Filter by Genre name
+        //    }
+
+        //    var models = await unitOfWork.genreRepository.GetAll(filter: filter, page_Size: pageSize, page_Number: pageNumber); // Call genre repository
+
+        //    var check = models.Any();
+        //    if (check)
+        //    {
+        //        response.StatusCode = 200;
+        //        response.IsSuccess = check;
+        //        var mappedGenre = mapper.Map<IEnumerable<Genre>, IEnumerable<GenreDTO>>(models); // Map to GenreDTO
+        //        response.Result = mappedGenre;
+        //        return response;
+        //    }
+        //    else
+        //    {
+        //        response.Message = "No genre found"; // Update message
+        //        response.StatusCode = 200;
+        //        response.IsSuccess = false;
+        //        return response;
+        //    }
+        //}
 
 
         // GET: api/genre/{id}

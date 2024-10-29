@@ -23,3 +23,16 @@ C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Core\obj\Debug\net8.0\Ecomme
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
 C:\Users\actc\Downloads\EcommerceAPI-main\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.deps.json
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.AssemblyReference.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfoInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfo.cs
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.sourcelink.json
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
+D:\full stack\asp_net\API\EcommerceAPI-Moviestore\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll
