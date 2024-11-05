@@ -21,8 +21,7 @@ namespace Ecommerce.Infastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<OrderDetails>()
-                .HasKey(e => new { e.Id, e.OrderId, e.MovieId });
+           
 
             base.OnModelCreating(modelBuilder);
 
@@ -30,9 +29,7 @@ namespace Ecommerce.Infastructure.Data
                .Property(p => p.Rating)
                .HasColumnType("decimal(18,2)");
 
-            modelBuilder.Entity<OrderDetails>()
-                .Property(od => od.price)
-                .HasColumnType("decimal(18,2)");
+            
 
             modelBuilder.Entity<Genre>().HasData(
                   new Genre
@@ -99,15 +96,10 @@ namespace Ecommerce.Infastructure.Data
                 new Order { Id = 2, LocalUserId = 1, OrderSatutus = "Pending", OrderDate = DateTime.Now }
             );
 
-            modelBuilder.Entity<OrderDetails>().HasData(
-                new OrderDetails { Id = 1, OrderId = 1, MovieId = 1, price = 699.99m, quantity = 1 },
-                new OrderDetails { Id = 2, OrderId = 1, MovieId = 3, price = 19.99m, quantity = 2 },
-                new OrderDetails { Id = 3, OrderId = 2, MovieId = 2, price = 999.99m, quantity = 1 }
-            );
+            
         }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Movie> Movies { get; set; }
-        public DbSet<OrderDetails> OrderDetails { get; set; }
         public DbSet<Genre> Genres { get; set; }
         public DbSet<LocalUser> LocalUsers { get; set; }
 
